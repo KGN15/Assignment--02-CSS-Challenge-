@@ -1047,6 +1047,9 @@ nav {
   .meseg-get-in-tuch {
     text-align: center;
   }
+  .status-img1{
+    display: none;
+  }
   .blog-cntenst a:hover{
     text-shadow: 12px 12px 14px rgba(0, 0, 0, 1);
     scale: 1.1;
